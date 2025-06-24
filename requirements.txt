@@ -3,3 +3,4 @@ torch
 transformers
 joblib
 scikit-learn
+gunicorn
